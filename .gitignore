@@ -1,0 +1,5 @@
+# Ambiente Python e modelos baixados (criados sozinhos na primeira execucao)
+.venv/
+vozes/
+__pycache__/
+*.wav
