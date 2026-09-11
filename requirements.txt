@@ -1,0 +1,5 @@
+faster-whisper>=1.2
+piper-tts>=1.8
+fastapi
+uvicorn
+numpy
